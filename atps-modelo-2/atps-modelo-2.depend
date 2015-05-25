@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432516427 source:/home/juniorlima/codeblocks/atps-modelo-2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
