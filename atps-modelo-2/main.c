@@ -12,7 +12,7 @@ int main()
     int CONT_FAT;
     float VALOR_FAT;
     int dec=0,num,d=1;
-    printf("\t Calculadora \n\t Menu \n\t (1) Soma \n\t (2) Subtração \n\t (3) Multiplicação \n\t (4) Divisão \n\t (5) Exponenciação \n\t (6) Raiz Quadrada \n\t (7) Potenciação \n\t (8) Decimal para Binário \n\t (9) Fatorial \n\t (0) Binário para Decimal (s) Sair \n\t  \n");
+    printf("\t Calculadora \n\t Menu \n\t (1) Soma \n\t (2) Subtração \n\t (3) Multiplicação \n\t (4) Divisão \n\t (5) Exponenciação \n\t (6) Raiz Quadrada \n\t (7) Potenciação \n\t (8) Decimal para Binário \n\t (9) Fatorial \n\t (0) Binário para Decimal\n \t (s) Sair \n\t  \n");
     printf("\tSelecione o Operador desejado: ");
     scanf("\t%s", &OPERADOR);
 
