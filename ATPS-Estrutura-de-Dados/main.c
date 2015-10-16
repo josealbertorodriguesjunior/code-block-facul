@@ -16,7 +16,13 @@ int main()
     };
 
     struct estrutura_aviao AVIAO;
+    int qtd_aviao;
+    int i;
 
+    printf("Digite a quantidade de Aviões que você deseja cadastrar \n");
+    scanf("%d",&qtd_aviao);
+    system("clear");
+    for(i=0; i< qtd_aviao; i++){
     // Obtendo os dados e Salvando os valores
 
     printf("CADASTRO DA ESTRUTURA AVIAO \n");
@@ -44,8 +50,9 @@ int main()
 
     printf("Digite o modelo do motor do aviao \n");
     scanf("%s",&AVIAO.motor);
-
+    system("clear");
     printf("\n \n");
+    }
 
     //Exibindo os resultados
 
