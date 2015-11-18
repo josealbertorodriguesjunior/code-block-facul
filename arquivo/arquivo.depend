@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447859750 source:/home/juniorlima/codeblocks/arquivo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
