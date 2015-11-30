@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448492052 source:/home/juniorlima/code-block-facul/revisao-Cláudio-4sem/main.c
+	<stdio.h>
+	<stdlib.h>
+

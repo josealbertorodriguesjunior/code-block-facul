@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448042312 source:/home/juniorlima/code-block-facul/fila-teste/main.c
+	<stdio.h>
+	<stdlib.h>
+
