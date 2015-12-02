@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448843783 source:/home/juniorlima/code-block-facul/exemploListaEncadeadaJessica/main.c
+	<stdio.h>
+	<stdlib.h>
+

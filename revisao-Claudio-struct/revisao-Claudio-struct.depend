@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448494515 source:/home/juniorlima/code-block-facul/revisao-Claudio-struct/main.c
+	<stdio.h>
+	<stdlib.h>
+

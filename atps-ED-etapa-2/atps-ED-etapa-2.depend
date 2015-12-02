@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448296125 source:/home/juniorlima/code-block-facul/atps-ED-etapa-2/main.c
+	<stdio.h>
+	<stdlib.h>
+

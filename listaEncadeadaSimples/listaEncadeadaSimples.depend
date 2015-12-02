@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448767800 source:/home/juniorlima/code-block-facul/listaEncadeadaSimples/main.c
+	<stdio.h>
+	<stdlib.h>
+
