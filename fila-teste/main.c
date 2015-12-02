@@ -9,7 +9,10 @@ struct Fila {
 		int primeiro;
 		int ultimo;
 		int nItens;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7b6fd411819b1d30d2033dc7926e937e65696fa4
 	};
 
 void criarFila( struct Fila *f, int c )

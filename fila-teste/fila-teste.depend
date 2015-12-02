@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1449064192 source:/home/juniorlima/code-block-facul/fila-teste/main.c
+=======
+1448042312 source:/home/juniorlima/code-block-facul/fila-teste/main.c
+>>>>>>> 7b6fd411819b1d30d2033dc7926e937e65696fa4
 	<stdio.h>
 	<stdlib.h>
 
