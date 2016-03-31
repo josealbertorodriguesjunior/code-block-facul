@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459195801 source:/home/junior/codeblocks/PesquisaBinariae Sequencial/main.c
+	<stdio.h>
+	<stdlib.h>
+

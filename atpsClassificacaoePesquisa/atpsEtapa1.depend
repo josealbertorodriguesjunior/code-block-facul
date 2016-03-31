@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1459398796 source:/home/junior/codeblocks/atpsEtapa1/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1459402683 source:/home/junior/codeblocks/atpsClassificacaoePesquisa/main.c
+	<stdio.h>
+	<stdlib.h>
+
